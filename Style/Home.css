@@ -515,7 +515,7 @@ footer{
 
   @keyframes load2 {
     0% { width: 0; }
-    100% { width: 90%; }
+    100% { width: 100%; }
   }
 
   .section1:hover > .article1 > .container_competence > .card_competence > .container_competence_text > .progress > .progress-value3 {
