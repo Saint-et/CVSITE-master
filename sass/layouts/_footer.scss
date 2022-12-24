@@ -1,0 +1,17 @@
+footer{
+    min-height: 300px;
+    width: 100%;
+    background-color: $primary;
+    display: flex;
+    justify-content: center;
+}
+.container_footer{
+    color: #fff;
+    width: 100%;
+    max-width: 1000px;
+}
+.content_footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}

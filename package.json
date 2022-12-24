@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "sass": "^1.56.2"
+  },
+  "name": "cvsite-master",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass --watch ./sass:./css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saint-et/CVSITE-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saint-et/CVSITE-master/issues"
+  },
+  "homepage": "https://github.com/Saint-et/CVSITE-master#readme",
+  "description": ""
+}

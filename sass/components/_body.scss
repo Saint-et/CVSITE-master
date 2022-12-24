@@ -1,0 +1,15 @@
+body{
+    margin: auto;
+    font-family: 'Nunito', sans-serif;
+    background: linear-gradient(-150deg, $backgroundSecondary, $backgroundPrimary);
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    height: 100%;
+    width: 100%;
+}
+.link{
+    color: white;
+}

@@ -1,0 +1,13 @@
+/* ScrollBar style */
+::-webkit-scrollbar {
+    background-color: $primary;
+    width: 10px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: rgba($tertiary, 0.5);
+    border-radius: 2px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: rgba($tertiary, 0.8);
+  }
+/* ScrollBar style END */
